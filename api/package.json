@@ -7,7 +7,7 @@
     "start": "node server.js",
     "lint": "eslint . "
   },
-  "author": "HsuanYu Liu",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^2.10.1",
